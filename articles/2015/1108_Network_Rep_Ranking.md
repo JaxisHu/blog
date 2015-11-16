@@ -63,6 +63,10 @@ Rank |Repositories |简介
 ####more network library
 除了收集上面这些能够进入前50名的，我也把其他的网络库也收集起来，也欢迎大家添加您所知道。
 
+ * [AFNetworking-Extensions](https://github.com/AFNetworking/AFNetworking/wiki/AFNetworking-Extensions) - Beyond the AFNetworking core lies a constellation of libraries shared by the community to solve more domain-specific problems.
+ * [SSIDObserver](https://github.com/Krivoblotsky/SSIDObserver) - iOS Wi-Fi network SSID observer.
+ * [BSNetworkTraffic](https://github.com/Bogdan-Stasjuk/BSNetworkTraffic) - A singleton for calculating app's network traffic through system network counters
+ * [LAN-Scan](https://github.com/mongizaidi/LAN-Scan) - An iOS Local Area Network Scanner
  * [FSNetworking](https://github.com/foursquare/FSNetworking) - Foursquare iOS networking library.
  * [Overcoat](https://github.com/Overcoat/Overcoat) - Small but powerful library that makes creating REST clients simple and fun.
  * [ROADFramework](https://github.com/epam/road-ios-framework) - Attributed-oriented approach for interacting with web services. The framework has built-in json and xml serialization for requests and responses and can be easily extensible.
