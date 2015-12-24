@@ -11,6 +11,8 @@
 [苹果开发之Cocoa编程（Cocoa Progrmming for Mac OS X）(原书第四版)源代码](https://github.com/yesunsong/CocoaProgram)
 
 [CocoaSample](https://github.com/helloitworks/CocoaSample):不错
+
+[FeedbinNotifier](https://github.com/kmikael/FeedbinNotifier):A menu bar application that shows your Feedbin unread count.
 #####项目
 
 [macdown-Open source Markdown editor for OS X.](https://github.com/uranusjr/macdown)
@@ -71,3 +73,6 @@ http://www.helloitworks.com
 
 
 [OpenFibers](https://github.com/OpenFibers):https://github.com/OpenFibers
+
+
+[kmikael](http://kmikael.com/):https://github.com/kmikael

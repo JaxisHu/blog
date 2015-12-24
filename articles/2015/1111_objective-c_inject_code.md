@@ -161,6 +161,8 @@ IMP implementation = imp_implementationWithBlock((id)([cls instancesRespondToSel
 
 [Objective-C Runtime Programming Guide 中文](http://wenku.baidu.com/view/1e06c9a20029bd64783e2cd1.htm)
 
+[Objective-C Runtime 运行时之一：类与对象](http://southpeak.github.io/blog/2014/10/25/objective-c-runtime-yun-xing-shi-zhi-lei-yu-dui-xiang/)
+
 转载请附本文链接[https://github.com/coderyi/blog/blob/master/articles/2015/1111_objective-c_inject_code.md](https://github.com/coderyi/blog/blob/master/articles/2015/1111_objective-c_inject_code.md)
 
 
