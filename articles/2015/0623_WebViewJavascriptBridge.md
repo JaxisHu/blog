@@ -7,7 +7,6 @@
 WebViewJavascriptBridge是Obj-C和JavaScript通过UIWebViews/WebViews互通消息的一个iOS/OSX的桥梁. 如果你喜欢WebViewJavascriptBridge,你可能也想check out<a title="WebViewProxy" href="https://github.com/marcuswestin/WebViewProxy">WebViewProxy</a>.
 
 Obj-C和JavaScript原理简单说一下，Obj-C调用JavaScript很简单，可以通过webview的stringByEvaluatingJavaScriptFromString:方法调用JavaScript代码；JavaScript调用Obj-C，则是通过web view的代理方法shouldStartLoadWithRequest：来接收JavaScript的网络请求从而实现调用。
- <!--more-->
 
 
 <strong><span style="color: #3d82c6;">正在使用WebViewJavascriptBridge的项目</span></strong>
