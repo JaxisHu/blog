@@ -4,7 +4,15 @@
 
 [coderyi](https://github.com/coderyi)
 
-
+- [React-用于构建用户界面的JavaScript库](#React-用于构建用户界面的JavaScript库)
+- [Flexbox布局](#Flexbox布局)
+- [组件的生命周期](#组件的生命周期)
+- [Navigator](#Navigator)
+- [react-native与原生交互](#react-native与原生交互)
+- [ES6与ES5](#ES6与ES5)
+- [Promise](#Promise)
+- [fetch](#fetch)
+-[npm](#npm)
 
 ###React-用于构建用户界面的JavaScript库
 
@@ -45,6 +53,8 @@ Flux是Facebook用来构建用户端的web应用的应用程序体系架构。�
 
 ![](http://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
 
+
+参考链接：
 
 [React-中文文档](http://reactjs.cn/react/index.html)
 
@@ -95,15 +105,20 @@ align-item（适用于伸缩容器）
 align-items: flex-start | flex-end | center | baseline | stretch	
 
 </pre>
+![](https://cdn.css-tricks.com/wp-content/uploads/2013/04/align-content.svg)
 
 align-content(适用于伸缩容器)
 
 这个属性主要是伸缩容器多行是主轴的对齐方式
-![](https://cdn.css-tricks.com/wp-content/uploads/2013/04/align-content.svg)
+<pre>
+align-content: flex-start | flex-end | center | space-between | space-around | stretch	
 
+</pre>
 
 
 ![](https://cdn.css-tricks.com/wp-content/uploads/2014/05/align-items.svg)
+
+参考链接：
 
 [一个完整的Flexbox指南](http://www.w3cplus.com/css3/a-guide-to-flexbox.html)
 
@@ -117,7 +132,6 @@ React组件的生命周期如下图：
 
 ![](http://7rf9ir.com1.z0.glb.clouddn.com/3-3-component-lifecycle.jpg)
 
-[React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle/)
 
 所以组件生命周期就是有三个阶段：
 
@@ -127,6 +141,11 @@ React组件的生命周期如下图：
 
 销毁期：当组件卸载消亡时
 
+
+参考链接：
+
+
+[React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle/)
 
 
 ###Navigator
@@ -265,6 +284,8 @@ var SecondPageComponent = React.create({
     }
 });
 </pre>
+
+参考链接：
 
 
 [新手理解Navigator的教程](http://bbs.reactnative.cn/topic/20/%E6%96%B0%E6%89%8B%E7%90%86%E8%A7%A3navigator%E7%9A%84%E6%95%99%E7%A8%8B) 对于Navigator讲解的特别详细
@@ -625,6 +646,8 @@ class PauseMenu extends React.Component{
 }
 </pre>
 
+参考链接：
+
 
 [React/React Native 的ES5 ES6写法对照表
 ](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8)
@@ -697,6 +720,7 @@ testAsync();
 
 关于异步编程，JS里面还另一种访问就是RxJS，Reactive Programming，RP是什么，RP是针对异步数据流的编程，一定程度而言，RP并不算新的概念。Event Bus、点击事件都是异步流。Rx最近比较流行，下次有时间再看吧！
 
+参考链接：
 
 
 [JavaScript Promises](http://www.html5rocks.com/zh/tutorials/es6/promises/)
@@ -800,6 +824,8 @@ function runPolling(generator){
 runPolling();
 </pre>
 
+参考链接：
+
 [示例代码源码-FetchAPI-Generators](https://github.com/sravikiran/FetchAPI-Generators)
 
 [使用Fetch API和ES6生成器来构建异步API](http://wwsun.github.io/posts/async-api-using-fetch-and-generators.html)
@@ -848,10 +874,14 @@ $ npm install --production
 
 dependencies是项目中依赖的模块，如果你想要开发自己的npm模块，如果有人要使用，那么他们可能不需要你开发使用的外部测试或者文档框架。在这种情况下，最好将这些附属的项目列在devDependencies中。
 
+参考链接：
+
 [npm模块管理器](http://javascript.ruanyifeng.com/nodejs/npm.html)
 
 [npm的package.json中文文档](https://github.com/ericdum/mujiang.info/issues/6)
 
 [react-native组件库](https://js.coach/react-native/)
 
+
+转载请注原文链接:https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
