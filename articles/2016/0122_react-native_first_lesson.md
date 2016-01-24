@@ -4,15 +4,15 @@
 
 [coderyi](https://github.com/coderyi)
 
-- [React-用于构建用户界面的JavaScript库](#React-用于构建用户界面的JavaScript库)
-- [Flexbox布局](#Flexbox布局)
+- [React-用于构建用户界面的JavaScript库](#react-用于构建用户界面的JavaScript库)
+- [Flexbox布局](#flexbox布局)
 - [组件的生命周期](#组件的生命周期)
-- [Navigator](#Navigator)
+- [Navigator](#navigator)
 - [react-native与原生交互](#react-native与原生交互)
-- [ES6与ES5](#ES6与ES5)
-- [Promise](#Promise)
+- [ES6与ES5](#es6与es5)
+- [Promise](#promise)
 - [fetch](#fetch)
--[npm](#npm)
+- [npm](#npm)
 
 ###React-用于构建用户界面的JavaScript库
 
