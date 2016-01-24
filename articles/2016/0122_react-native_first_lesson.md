@@ -4,7 +4,7 @@
 
 [coderyi](https://github.com/coderyi)
 
-- [React-用于构建用户界面的JavaScript库](#react-用于构建用户界面的JavaScript库)
+- [React-用于构建用户界面的JavaScript库](#react-用于构建用户界面的javascript库)
 - [Flexbox布局](#flexbox布局)
 - [组件的生命周期](#组件的生命周期)
 - [Navigator](#navigator)
