@@ -8,7 +8,7 @@
 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
 ).
 
-copyright (c) 2015 coderyi.all rights reserved.
+copyright (c) 2016 coderyi.all rights reserved.
 
 
 ###2016
