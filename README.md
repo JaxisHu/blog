@@ -1,11 +1,8 @@
 ##blog
-######博客内容未经本人授权，禁止任何商业用途。
+######友情提醒，博客尽量不要fork，欢迎对我的博客提交issue，转载请保留原文链接以及作者署名。博客内容未经本人授权，禁止任何商业用途。
 
-######友情提醒，尽量不要fork，欢迎对我的blog提交issue，转载请保留原文链接以及作者署名。
 
-文章版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 
-
-中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
+文章版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/
 ).
 
 copyright (c) 2016 coderyi.all rights reserved.
