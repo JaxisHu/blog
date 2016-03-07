@@ -34,6 +34,7 @@ Core Audio.framework并不提供服务，仅提供其他框架可以使用的头
 <strong><span style="color: #3d82c6;">AVFoundation的录音和播放</span></strong>
 
 音频的录制与播放主要和三个类有关AVAudioSession，AVAudioRecorder，AVAudioPlayer。
+
 <strong>AVAudioSession</strong>
 
 AVAudioSession类由AVFoundation框架引入，每个iOS应用都有一个音频会话，这个会话可以被AVAudioSession类的sharedInstance类方法访问，如下：
@@ -42,6 +43,7 @@ AVAudioSession类由AVFoundation框架引入，每个iOS应用都有一个音频
 在获得一个AVAudioSession类的实例后，你就能通过调用音频会话对象的setCategory:error:实例方法，来从IOS应用可用的不同类别中作出选择。
 
 <strong>AVAudioRecorder</strong>
+
 在使用AVAudioRecorder进行音频录制的时候，需要设置一些参数，下面就是参数的说明，并且写下了音频录制的代码：
 <pre lang="objc" style="background: #E8F2FB;">//音频开始录制
 - (void)startRecordWithFilePath:(NSString *)path{
