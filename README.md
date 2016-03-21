@@ -9,7 +9,6 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 
 ###2016
-[fuck 2015](https://github.com/coderyi/blog/blob/master/articles/2016/0202_fuck_2015.md)
 
 [react-native的第一课](https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md)
 
