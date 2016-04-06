@@ -10,7 +10,6 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ###2016
 
-[哭](https://github.com/coderyi/blog/blob/master/articles/2016/0402_ku.md)
 
 
 [react-native的第一课](https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md)
