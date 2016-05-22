@@ -10,7 +10,7 @@ copyright (c) 2016 coderyi.all rights reserved.
 
 ###2016
 
-
+[Apple Watch开发的几个小问题](https://github.com/coderyi/blog/blob/master/articles/2016/0522_AppleWatch.md)
 
 [react-native的第一课](https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md)
 
