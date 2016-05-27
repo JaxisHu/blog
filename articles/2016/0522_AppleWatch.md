@@ -134,6 +134,26 @@ Apple Watch将会有三种交互方式：主屏幕下，佩戴者可以看到所
 
 ![](http://cdn.pingwest.com/wp-content/uploads/2014/11/WatchKit.jpg?imageView2/2/w/750/q/90)
 
+
+##### Q8 兼容iOS6的问题
+
+在iOS6的机器上运行，我发现了一下问题，
+
+<pre>
+dyld: Library not loaded: /System/Library/Frameworks/WatchKit.framework/WatchKit
+Referenced from: /var/mobile/Applications/xxxx/xxx.app/xxx
+Reason: image not found
+(lldb) 
+</pre>
+
+因为watchkit.framework 在iOS 6上是不存在的，所以才会有上面的错误，这时需要在build phases里把watchkit.framework从Required（添加framework默认为此）改为optional。
+
+
+[iOS开发 .framework的Optional(弱引用)和Required(强引用)区别](http://www.cnblogs.com/wanyakun/p/3494323.html)
+
+
+
+
 [Apple Watch三个月开发的一些收获总结](http://jerryliu.org/ios%20programming/Apple%20Watch-Development-summary/)
 
 [watchOS 2](http://beyondvincent.com/2015/10/16/2015-10-16-watchkit-for-watchos-2/
