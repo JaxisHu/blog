@@ -168,7 +168,7 @@ var SampleComponent = React.createClass({
         var defaultComponent = FirstPageComponent;
         return (
         &lt;Navigator
-          initialRoute={{ name: defaultName, component: defaultComponent }}
+          initialRoute={ { name: defaultName, component: defaultComponent } }
           configureScene={() => {
             return Navigator.SceneConfigs.VerticalDownSwipeJump;
           }}
@@ -184,7 +184,7 @@ var SampleComponent = React.createClass({
 });
 </pre>
 
-initialRoute={{ name: defaultName, component: defaultComponent }} 这个指定了默认的页面，也就是启动app之后会看到界面的第一屏。 需要填写两个参数: name 跟 component。
+initialRoute={ { name: defaultName, component: defaultComponent } } 这个指定了默认的页面，也就是启动app之后会看到界面的第一屏。 需要填写两个参数: name 跟 component。
 
 configureScene 这个是页面之间跳转时候的动画，具体有哪些？可以看这个目录下，有源代码的: node_modules/react-native/Libraries/CustomComponents/Navigator/NavigatorSceneConfigs.js
 
