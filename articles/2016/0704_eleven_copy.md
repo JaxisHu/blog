@@ -1,36 +1,37 @@
 #开源不是免费的
 
-之前大名顶顶的Surge软件被抄袭到app store事件没想到也发生到我身上，怎么也没想到一个自己的小开源软件会被复制成7个的情况，该哭该笑，并且有一个是app store总榜70名，还有一个是付费分类榜21名，呵呵！
+之前大名顶顶的Surge软件被抄袭到app store,没想到这样的事件也发生到我身上，怎么也没想到一个自己的小开源软件会被复制成7个的情况，该哭该笑，一个是app store总榜70名，还有一个是付费分类榜21名，呵呵！
 
 我于2015年9月29日开源了一款基于ffmpeg的iOS平台的万能播放器，支持播放一些iOS framework不支持的格式，名字叫做[Eleven](https://github.com/coderyi/Eleven)，只是为了好玩而已，并且在9月20日的时候已经上架app store ,全称为[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648),定价1美元。很多人想笑既然付费上架为何又开源，我只是想app的技术是开源的，但不代表app的使用价值免费。
 
-目前我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的ElevenPlayer是开源在mit协议之下，详细见第一次commit的readme的license [first commit](https://github.com/coderyi/Eleven/tree/9ec8cf1e987f7c4ebc7d8310040102410fc416a3)，该协议虽然规定了你可以拷贝并且发行，但是您必须包含原作者的版权申明，当然我并未在这7款app中找到相关的说明。并且对于软件开源协议我至今未找到一款禁止商业软件使用的，就连最严格的gpl也是只要开源即可，商业软件一样使用。
+目前我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)是开源在[MIT](https://github.com/coderyi/Eleven/blob/a21614ab1589d9c83047bd16f7efa5f5443817c9/LICENSE.txt)协议之下，详细见第一次commit的readme的license [first commit](https://github.com/coderyi/Eleven/tree/9ec8cf1e987f7c4ebc7d8310040102410fc416a3)，该协议虽然规定了你可以拷贝并且发行，但是您必须包含原作者的版权申明，当然我并未在这7款app中找到相关的说明。并且对于软件开源协议我至今未找到一款禁止商业软件使用的，就连最严格的GPL也是只要开源即可，商业软件一样使用。
 
 这是一个开放源代码的问题，另一个是对于eleven这款app 产品，7款app在功能以及视觉几乎一样，难道这不关乎著作权，这不关乎法律吗？
 
 
-elevenplayer主要有三方面功能，多种格式的本地播放，itunes或者wifi传输文件，播放网络流媒体。视觉上使用侧边栏，主要划分本地与网络两栏。
-具体看下图
-![eleven](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven.png)
+[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)主要有三方面功能，多种格式的本地播放，itunes或者wifi传输文件，播放网络流媒体。视觉上使用侧边栏，主要划分本地与网络两栏。我去年做这个只是为了了解ffmpeg，所以从源码上也可以看出来我并未花多少功夫，也没有花时间去设计，更未花精力推广，下面就截取7款app的页面来对比eleven
+
+eleven具体看下图
+![eleven](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven.png) 上架时间：  2016年09月20日
 
 七款app分别是
 
-[影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053)
+[影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053) 上架时间：2016年06月27日
 
 
-[搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 
+[搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 上架时间：2016年05月01日
 
 
-[视频盒子-找片看片神器](https://itunes.apple.com/cn/app/shi-pin-he-zi-zhao-pian-kan/id1117602653)
+[视频盒子-找片看片神器](https://itunes.apple.com/cn/app/shi-pin-he-zi-zhao-pian-kan/id1117602653) 上架时间：2016年06月23日
 
-[万能免费钥匙播放器](https://itunes.apple.com/cn/app/wan-neng-mian-fei-yao-shi/id1072263654)
+[万能免费钥匙播放器](https://itunes.apple.com/cn/app/wan-neng-mian-fei-yao-shi/id1072263654) 上架时间：2016年01月14日
 
 
-[吉吉手机版搜索神器影音](https://itunes.apple.com/cn/app/ji-ji-shou-ji-ban-sou-suo/id1104837206)
+[吉吉手机版搜索神器影音](https://itunes.apple.com/cn/app/ji-ji-shou-ji-ban-sou-suo/id1104837206) 上架时间：2016年05月03日
 
-[TTPlayer - 口袋影院](https://itunes.apple.com/cn/app/ttplayer-kou-dai-ying-yuan/id505080575)
+[TTPlayer Pro](https://itunes.apple.com/cn/app/ttplayer-pro-shou-ji-ban-ji/id1105305006) 上架时间：2016年04月27日
 
-[放放影院-万能看片神器！](https://itunes.apple.com/cn/app/fang-fang-ying-yuan-wan-neng/id1086665888)
+[放放影院-万能看片神器！](https://itunes.apple.com/cn/app/fang-fang-ying-yuan-wan-neng/id1086665888) 上架时间：2016年04月20日
 
 
 [影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053)
@@ -78,12 +79,12 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 
 ![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_1.png)
 
-[TTPlayer - 口袋影院](https://itunes.apple.com/cn/app/ttplayer-kou-dai-ying-yuan/id505080575)
+[TTPlayer Pro](https://itunes.apple.com/cn/app/ttplayer-pro-shou-ji-ban-ji/id1105305006)
 
 
-![](hhttps://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_2.png)
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_2.png)
 
-[放放影院-万能看片神器！](https://itunes.apple.com/cn/app/fang-fang-ying-yuan-wan-neng/id1086665888)
+[放放影院-万能看片神器！](https://itunes.apple.com/cn/app/fang-fang-ying-yuan-wan-neng/id1086665888) 
 
 
 ![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_4.png)
@@ -93,6 +94,6 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 
 好吧！我确实是比较天真的认为开源软件的问题不会发生在我身上，现在即使发生了，开源的游戏我还会继续玩，[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)我也会继续写，但是请亲爱的朋友们不要打乱游戏规则，要不然可能没人玩了。
 
-所以最后，请上面的7位app同学联系我，您应该能从我的github找到我的联系方式，然后请使用正确的使用链接[https://itunes.apple.com/cn/app/elevenplayer/id1033773648](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)，谢谢！
+所以最后，面对这样的情况我怎么办，并且请上面的7位app同学联系我，您应该能从我的github找到我的联系方式，然后请使用正确的使用链接[https://itunes.apple.com/cn/app/elevenplayer/id1033773648](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)，谢谢！
 
 
