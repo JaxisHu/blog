@@ -38,7 +38,6 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 
 ![1](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png)
 
-<img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png" width="800" height="565">
 
 
 <img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s1.jpg" width="320" height="570">
