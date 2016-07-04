@@ -41,7 +41,6 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 
 <img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s1.jpg" width="320" height="570">
 
-![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s5.jpg)
 
 
 [搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 
@@ -53,13 +52,14 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 
 ![2_reject](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_a1.png)
 
-![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s4.jpg)
+<img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s4.jpg" width="320" height="570">
 
 [万能免费钥匙播放器](https://itunes.apple.com/cn/app/wan-neng-mian-fei-yao-shi/id1072263654)
 这位同学也是花了够多钱的，刷4万多app store评论的钱赚得回来吗？
 ![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_6.png)
 
-![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s3.jpg)
+<img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s3.jpg" width="320" height="570">
+
 
 其他的4个app如下
 
@@ -68,7 +68,9 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 
 ![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_7.png)
 
-![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s2.jpg)
+
+<img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s2.jpg" width="320" height="570">
+
 
 [吉吉手机版搜索神器影音](https://itunes.apple.com/cn/app/ji-ji-shou-ji-ban-sou-suo/id1104837206)
 
