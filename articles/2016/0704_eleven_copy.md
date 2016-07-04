@@ -47,7 +47,7 @@ eleven具体看下图
 
 [搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 
 
-健康健美（付费榜）第21名，售价6元，把我的elevenplayer变成看片神器，怎么好意思放在健康健美分类，appple审核的时候不知道是怎么想的，也不知道是怎么让7个相同的app通过审核的。好吧！我花了6块下载之后在app 里面找到了caoliu@sina.cn，连邮箱名字也要恶心我，并且当我写完信之后准备发给他的时候才发现这是个假邮箱。
+健康健美（付费榜）第21名，售价6元，把我的elevenplayer变成看片神器，怎么好意思放在健康健美分类，appple审核的时候不知道是怎么想的，也不知道是怎么让7个相同的app通过审核的。好吧！我花了6块下载之后在app 里面找到了caoliu@sina.cn，连邮箱名字我也想吐槽，并且当我写完信之后准备发给他的时候才发现这是个假邮箱。
 
 ![2](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_5.png)
 
