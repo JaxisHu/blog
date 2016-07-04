@@ -11,7 +11,7 @@
 
 elevenplayer主要有三方面功能，多种格式的本地播放，itunes或者wifi传输文件，播放网络流媒体。视觉上使用侧边栏，主要划分本地与网络两栏。
 具体看下图
-![eleven]()
+![eleven](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven.png)
 
 七款app分别是
 
@@ -33,26 +33,57 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 [放放影院-万能看片神器！](https://itunes.apple.com/cn/app/fang-fang-ying-yuan-wan-neng/id1086665888)
 
 
-[搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 
+[影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053)
 是我第一个发现的，上个月才上架，就进入总榜70名，刷榜刷评论刷这么厉害，进入app之后就是跳转到app store的广告，联系方式只有一个github ，联系人只有一个github,[black-heart](https://github.com/black-heart)，这让我联系谁？
 
-![1]()
-![1_rank]()
+![1](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png)
 
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s1.jpg)
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s5.jpg)
 
 [搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 
 
 健康健美（付费榜）第21名，售价6元，把我的elevenplayer变成看片神器，怎么好意思放在健康健美分类，appple审核的时候不知道是怎么想的，也不知道是怎么让7个相同的app通过审核的。好吧！我花了6块下载之后在app 里面找到了caoliu@sina.cn，连邮箱名字也要恶心我，并且当我写完信之后准备发给他的时候才发现这是个假邮箱。
 
-![2]()
-![2_rank]()
-![2_reject]
+![2](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_5.png)
 
+
+![2_reject](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_a1.png)
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s4.jpg)
 
 [万能免费钥匙播放器](https://itunes.apple.com/cn/app/wan-neng-mian-fei-yao-shi/id1072263654)
 这位同学也是花了够多钱的，刷4万多app store评论的钱赚得回来吗？
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_6.png)
 
-![]()
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s3.jpg)
+
+其他的4个app如下
+
+[视频盒子-找片看片神器](https://itunes.apple.com/cn/app/shi-pin-he-zi-zhao-pian-kan/id1117602653)
+
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_7.png)
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s2.jpg)
+
+[吉吉手机版搜索神器影音](https://itunes.apple.com/cn/app/ji-ji-shou-ji-ban-sou-suo/id1104837206)
+
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_1.png)
+
+[TTPlayer - 口袋影院](https://itunes.apple.com/cn/app/ttplayer-kou-dai-ying-yuan/id505080575)
+
+
+![](hhttps://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_2.png)
+
+[放放影院-万能看片神器！](https://itunes.apple.com/cn/app/fang-fang-ying-yuan-wan-neng/id1086665888)
+
+
+![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_4.png)
+
 
 我能怎么办？我进入github的时间不久，是2015年加入并注册账号的，当发现他的时候就变成了我迄今为止最喜欢的互联网产品，我看到了很多优秀的不可企及的开发者，Linus,Chris Lattner,onevcat等，我在swift开源的那一晚兴奋的睡不着觉，见到chris的第一次提交swift，这些好像让我看到了自己将如何走，这是github以及开源带来的。
 
