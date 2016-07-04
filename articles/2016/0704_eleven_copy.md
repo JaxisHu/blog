@@ -4,7 +4,7 @@
 
 我于2015年9月29日开源了一款基于ffmpeg的iOS平台的万能播放器，支持播放一些iOS framework不支持的格式，名字叫做[Eleven](https://github.com/coderyi/Eleven)，只是为了好玩而已，并且在9月20日的时候已经上架app store ,全称为[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648),定价1美元。很多人想笑既然付费上架为何又开源，我只是想app的技术是开源的，但不代表app的使用价值免费。
 
-目前我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的ElevenPlayer是开源在mit协议之下，详细见第一次commit的readme的license （https://github.com/coderyi/Eleven/tree/9ec8cf1e987f7c4ebc7d8310040102410fc416a3），该协议虽然规定了你可以拷贝并且发行，但是您必须包含原作者的版权申明，当然我并未在这7款app中找到相关的说明。并且对于软件开源协议我至今未找到一款禁止商业软件使用的，就连最严格的gpl也是只要开源即可，商业软件一样使用。
+目前我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的ElevenPlayer是开源在mit协议之下，详细见第一次commit的readme的license [first commit](https://github.com/coderyi/Eleven/tree/9ec8cf1e987f7c4ebc7d8310040102410fc416a3)，该协议虽然规定了你可以拷贝并且发行，但是您必须包含原作者的版权申明，当然我并未在这7款app中找到相关的说明。并且对于软件开源协议我至今未找到一款禁止商业软件使用的，就连最严格的gpl也是只要开源即可，商业软件一样使用。
 
 这是一个开放源代码的问题，另一个是对于eleven这款app 产品，7款app在功能以及视觉几乎一样，难道这不关乎著作权，这不关乎法律吗？
 
@@ -39,9 +39,10 @@ elevenplayer主要有三方面功能，多种格式的本地播放，itunes或�
 ![1](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png)
 
 
-![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s1.jpg)
+<img  src="https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s1.jpg" width="320" height="570">
 
 ![](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_s5.jpg)
+
 
 [搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 
 
