@@ -20,7 +20,7 @@ eleven具体看下图
 [影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053)
 是我第一个发现的，上个月才上架，就进入总榜70名，刷榜刷评论刷这么厉害，进入app之后就是跳转到app store的广告，这款app在我发现的第二天就下架了。我试图联系他，联系方式只有一个github ，[black-heart](https://github.com/black-heart)，这让我联系谁？
 
-![1](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png)
+![2](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_5.png)
 
 
 
@@ -32,7 +32,7 @@ eleven具体看下图
 
 这款app除了功能视觉一样之外，可以从该app的本地视频右边按钮开启文件传输服务器后，访问web页能够看到我之前留下在web页的“Powered by Eleven Player, Copyright (c) 2015 coderyi”字样，并且web页的名字也是Eleven Player。健康健美（付费榜）第21名，售价6元，把我的elevenplayer变成看片神器，怎么好意思放在健康健美分类，appple审核的时候不知道是怎么想的，也不知道是怎么让7个相同的app通过审核的。好吧！我花了6块下载之后在app 里面找到了caoliu@sina.cn，连邮箱名字我也想吐槽，并且当我写完信之后准备发给他的时候才发现这是个假邮箱。
 
-![2](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_5.png)
+![1](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png)
 
 
 ![2_reject](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_a1.png)
