@@ -6,7 +6,7 @@
 
 我于2015年9月29日开源了一款iOS平台的万能播放器，支持播放一些iOS framework不支持的格式，名字叫做[Eleven](https://github.com/coderyi/Eleven)，只是为了好玩而已，并且在9月20日的时候已经上架app store ,全称为[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648),定价1美元。很多人想笑既然付费上架为何又开源，我只是想app的技术是开源的，但不代表app的使用价值免费。
 
-目前我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)是开源在[MIT](https://github.com/coderyi/Eleven/blob/a21614ab1589d9c83047bd16f7efa5f5443817c9/LICENSE.txt)协议之下，详细见第一次commit的readme的license [first commit](https://github.com/coderyi/Eleven/tree/9ec8cf1e987f7c4ebc7d8310040102410fc416a3)，该协议虽然规定了你可以拷贝并且发行，但是您必须包含原作者的版权申明，当然我并未在这7款app中找到相关的说明。并且对于软件开源协议我至今未找到一款禁止商业软件使用的，就连最严格的GPL也是只要开源即可，商业软件一样使用。另外我在开源的时候readme另外注明了“you can not upload it to the App Store”，这好像没有任何作用吗？
+目前我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)是开源在[MIT](https://github.com/coderyi/Eleven/blob/a21614ab1589d9c83047bd16f7efa5f5443817c9/LICENSE.txt)协议之下，详细见第一次commit的readme的license [first commit](https://github.com/coderyi/Eleven/tree/9ec8cf1e987f7c4ebc7d8310040102410fc416a3)，该协议虽然规定了你可以拷贝并且发行，但是您必须包含Eleven Project的许可声明，当然我并未在这7款app中找到相关的说明。并且对于软件开源协议我至今未找到一款禁止商业软件使用的，就连最严格的GPL也是只要开源即可，商业软件一样使用。另外我在开源的时候readme另外注明了“you can not upload it to the App Store”，这好像没有任何作用吗？
 
 这是一个开放源代码的问题，另一个是对于eleven这款app 产品，7款app在功能以及视觉几乎一样，这是否关乎抄袭，是否关乎侵权，是否关乎法律？并且对于7款app的混淆行为是否构成不正当竞争？
 
