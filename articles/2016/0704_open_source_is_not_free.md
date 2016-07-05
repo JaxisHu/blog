@@ -2,7 +2,7 @@
 
 
 
-之前大名顶顶的Surge软件被抄袭到app store,没想到这样的事件也发生到我身上，怎么也没想到一个自己的小开源软件会被复制成7个的情况，该哭该笑，一个是app store总榜70名，还有一个是付费分类榜21名，呵呵！
+之前大名顶顶的Surge软件被抄袭到app store,没想到这样的事件也发生到我身上，怎么也没想到一个自己的小开源软件会被复制成7个的情况，该哭该笑，一个是app store总榜70名（2016年07月05日下架），还有一个是付费分类榜21名，呵呵！
 
 我于2015年9月29日开源了一款iOS平台的万能播放器，支持播放一些iOS framework不支持的格式，名字叫做[Eleven](https://github.com/coderyi/Eleven)，只是为了好玩而已，并且在9月20日的时候已经上架app store ,全称为[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648),定价1美元。我在iOS app store 发现了7款与eleven在功能与视觉上几乎一样的app，我的[ElevenPlayer](https://itunes.apple.com/cn/app/elevenplayer/id1033773648)是开源在[MIT](https://github.com/coderyi/Eleven/blob/a21614ab1589d9c83047bd16f7efa5f5443817c9/LICENSE.txt)协议之下，重要的是我在开源的时候readme另外注明了“you can not upload it to the App Store”，当然我并未在这7款app中找到相关的ElevenPlayer的许可声明。7款app在功能以及视觉几乎一样，抄袭？不正当竞争？
 
@@ -76,7 +76,8 @@ eleven具体看下图
 这里附上7款app的链接以及发布时间
 
 
-[影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053) 上架时间：2016年06月27日
+[影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053) 上架时间：2016年06月27日 ，2016年07月05日下架
+
 
 
 [搜索播放器-找片看片神器！](https://itunes.apple.com/cn/app/sou-suo-bo-fang-qi-zhao-pian/id1097396706) 上架时间：2016年05月01日
