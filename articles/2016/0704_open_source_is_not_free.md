@@ -18,7 +18,7 @@ eleven具体看下图
 
 
 [影音先锋 - 万能视频播放器](https://itunes.apple.com/cn/app/ying-yin-xian-feng-wan-neng/id1126761053)
-是我第一个发现的，上个月才上架，就进入总榜70名，刷榜刷评论刷这么厉害，进入app之后就是跳转到app store的广告，联系方式只有一个github ，联系人只有一个github,[black-heart](https://github.com/black-heart)，这让我联系谁？
+是我第一个发现的，上个月才上架，就进入总榜70名，刷榜刷评论刷这么厉害，进入app之后就是跳转到app store的广告，这款app在我发现的第二天就下架了。我试图联系他，联系方式只有一个github ，[black-heart](https://github.com/black-heart)，这让我联系谁？
 
 ![1](https://raw.githubusercontent.com/coderyi/blog/master/other/images/eleven_img/eleven_3.png)
 
